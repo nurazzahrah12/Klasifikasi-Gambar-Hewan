@@ -1,0 +1,11 @@
+
+tensorflow>=2.12
+gradio
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+Pillow
+streamlit
+numpy
